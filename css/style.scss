@@ -312,15 +312,16 @@ body    {
 
     #cat-title  {
         margin-top: 300px;
+        
         font-size: 1.5em;
         font-weight: bold;
         padding-bottom: 0;
         margin-bottom: 0;
-        margin-left: 5px;
+        margin-left: 15px;
     }
 
     #cat-subtitle   {
-        margin-left: 5px;
+        margin-left: 15px;
     }
 
     .category-list > li {
@@ -376,6 +377,7 @@ body    {
 #loc-title  {
 /*     border: $border red;
  */ margin-top: 20px;
+    margin-left: 15px;
     padding-left: 3px;
     font-size: 1.5em;
     text-decoration: black;
@@ -386,6 +388,7 @@ body    {
 #loc-subtitle   {
     font-size: 20px;
     padding-left: 3px;
+    margin-left: 15px;
 }
 
 .locality-list  {
