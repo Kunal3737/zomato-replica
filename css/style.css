@@ -189,7 +189,8 @@ body {
     /* border: $border red; */
     padding: 5px 0 0 5px;
     float: left;
-    width: 100%;
+    width: 95%;
+    margin: 0 10px;
   }
   h4 {
     margin-top: 5px;
@@ -224,7 +225,8 @@ body {
   .post_widget {
     /* border: $border red; */
     float: left;
-    width: 100%;
+    width: 95%;
+    margin: 5px 10px;
     padding: 0 10px;
     color: green;
     font-size: 1.4em;
@@ -265,7 +267,7 @@ body {
     width: 99%;
   }
   .For_Ad {
-    width: 63%;
+    width: 62%;
     height: 190px;
     /* border: $border red; */
     text-align: center;
