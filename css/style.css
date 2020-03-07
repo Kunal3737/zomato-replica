@@ -132,7 +132,7 @@ body {
 }
 
 .forbg {
-  background-image: url(/images/Images/images/bg.jpg);
+  background-image: url(../images/Images/images/bg.jpg);
   height: 500px;
   width: 100%;
   /*     border: $border red;
